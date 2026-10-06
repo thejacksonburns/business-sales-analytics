@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard analyzing revenue, profitability, regional performance, product categories, sales channels, and monthly sales trends.
 
-![Business Sales Analytics Dashboard](business_sales_dashboard.png)
+![Business Sales Analytics Dashboard](business_sales_dashboard.png.png)
 
 A portfolio analytics project using **SQL, Python, Excel, SQLite, and Power BI** to analyze 12,000 synthetic sales transactions and evaluate revenue, profitability, customers, products, regions, and discounting.
 
