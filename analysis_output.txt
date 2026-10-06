@@ -1,0 +1,26 @@
+Transactions: 12,000
+Revenue: $9,201,589.99
+Profit: $1,706,123.99
+Profit margin: 18.54%
+
+Regional performance:
+Midwest    revenue=$2,402,829 profit=$423,260 margin=17.62%
+South      revenue=$2,272,110 profit=$423,978 margin=18.66%
+Northeast  revenue=$2,265,024 profit=$421,857 margin=18.62%
+West       revenue=$2,261,627 profit=$437,029 margin=19.32%
+
+Top products by profit:
+Laptop Pro 14                revenue=$2,694,278 profit=$465,519
+Laptop Air 13                revenue=$1,814,009 profit=$273,847
+Standing Desk                revenue=$1,079,134 profit=$201,045
+Ergonomic Chair              revenue=$796,241 profit=$150,864
+27in Monitor                 revenue=$654,641 profit=$130,662
+
+Discount analysis:
+0%: 2,664 transactions, margin=28.81%
+5%: 2,191 transactions, margin=24.58%
+10%: 2,113 transactions, margin=20.67%
+15%: 1,767 transactions, margin=14.64%
+20%: 1,426 transactions, margin=8.55%
+25%: 1,110 transactions, margin=1.71%
+30%: 729 transactions, margin=-6.96%
